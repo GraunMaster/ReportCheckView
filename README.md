@@ -43,3 +43,5 @@ reportcheckview.check — inspect players
 reportcheckview.admin — full access
 
 📌 Highlights ✅ Intuitive GUI — sort reports by date and status. ✅ Auto-notifications — alerts for new reports. ✅ Profanity filter for report reasons. ✅ Report limits — prevents abuse. ✅ Supports Spigot/Paper/Purpur 1.12.2-1.21.8 and Java 8-21.
+
+https://modrinth.com/plugin/reportcheckview
