@@ -1,5 +1,5 @@
 {
   "version": "1.3.1",
   "download_url": "https://modrinth.com/plugin/reportcheckview/versions",
-  "changelog": "Telegram bot connections to chats and topics have been improved, and some optimizations have been made. "
+  "changelog": "The Telegram bot's interaction with chats and threads has been improved, and a number of optimizations have been made. During the review, a chat between the offender and the moderator was added. "
 }
